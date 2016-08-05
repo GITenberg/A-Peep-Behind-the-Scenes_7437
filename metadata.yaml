@@ -1,0 +1,42 @@
+_repo: A-Peep-Behind-the-Scenes_7437
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walton, O. F., Mrs.
+    aliases:
+    - Deck, Amy Catherine
+    - Walton, Mrs O. F.
+    - Walton, Amy Catherine
+    - Walton, Octavius Frank, Mrs.
+    birthdate: 1849
+    deathdate: 1939
+    gutenberg_agent_id: '2468'
+    url: http://www.gutenberg.org/2009/agents/2468
+    wikipedia: http://en.wikipedia.org/wiki/Amy_Catherine_Walton
+description: '"Living in a carnival would be so exciting. All the bright colors and
+  fun that go with the fair would be pure joy. At least, that''s what the local children
+  thought. But they didn''t know of Rosalie and her family. Mother was sick and father
+  wouldn''t take time to think about his family''s needs or wants. Rosalie stays up
+  late working very hard with the acting troupe. Life behind the scenes is anything
+  but exciting. One day, a stranger gives Rosalie a picture of a shepherd holding
+  a lamb. The man tells the young girl and her mother about the Good Shepherd, Jesus
+  and how He longs to show His love for them. will Rosalie belief? Can she trust God
+  to find a real home?"--Cover verso.'
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Family problems -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Theater -- Juvenile fiction'
+- GITenberg
+title: A Peep Behind the Scenes
+url: http://www.gutenberg.org/ebooks/7437
