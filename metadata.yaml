@@ -1,5 +1,8 @@
 _repo: A-Peep-Behind-the-Scenes_7437
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Walton, O. F., Mrs.
@@ -22,6 +25,8 @@ description: '"Living in a carnival would be so exciting. All the bright colors 
   a lamb. The man tells the young girl and her mother about the Good Shepherd, Jesus
   and how He longs to show His love for them. will Rosalie belief? Can she trust God
   to find a real home?"--Cover verso.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7437#A-Peep-Behind-the-Scenes
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
